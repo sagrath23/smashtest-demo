@@ -1,2 +1,9 @@
 #node modules
 node_modules
+
+# selenium drivers
+chromedriver
+
+# DS_store
+.DS_Store
+
