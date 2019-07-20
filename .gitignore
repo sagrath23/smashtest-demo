@@ -7,3 +7,5 @@ chromedriver
 # DS_store
 .DS_Store
 
+#smashtest output
+smashtest
