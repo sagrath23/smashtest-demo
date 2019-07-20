@@ -1,0 +1,22 @@
+{
+  "name": "smastest-demo",
+  "version": "1.0.0",
+  "description": "smashtest demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagrath23/smashtest-demo.git"
+  },
+  "author": "Steven Augusto Villegas Castellanos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagrath23/smashtest-demo/issues"
+  },
+  "homepage": "https://github.com/sagrath23/smashtest-demo#readme",
+  "dependencies": {
+    "smashtest": "^1.0.19-beta"
+  }
+}
