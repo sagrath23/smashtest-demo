@@ -2,6 +2,7 @@ Open Chrome
  
     Navigate to 'google.com'
  
+        // for debug mode, use ~ at the start of a step: ~ Type 'hello world[enter]' into 'input[name=q]'
         Type 'hello world[enter]' into 'input[name=q]'
 
         Type 'evangelion[enter]' into 'input[name=q]'

@@ -4,6 +4,7 @@
   "description": "smashtest demo",
   "main": "index.js",
   "scripts": {
+    "prepare": " sh scripts/prepare.sh",
     "test": "./node_modules/.bin/smashtest tests/*"
   },
   "repository": {
