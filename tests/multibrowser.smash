@@ -1,8 +1,10 @@
+// this is an step block
 Open Chrome
 Open Firefox
  
     Navigate to 'google.com'
- 
+        - This is a contextual step, and we use to add info during test execution
+      
         Type 'hello world[enter]' into 'input[name=q]'
 
         Type 'evangelion[enter]' into 'input[name=q]'
