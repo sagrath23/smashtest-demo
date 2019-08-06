@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "prepare": " sh scripts/prepare.sh",
-    "test": "./node_modules/.bin/smashtest tests/*",
+    "clean:drivers": "sh scripts/clean.sh",
+    "test": "./node_modules/.bin/smashtest",
+    "test:all": "./node_modules/.bin/smashtest tests/*",
     "test:display": "./node_modules/.bin/smashtest tests/* --headless=false"
   },
   "repository": {

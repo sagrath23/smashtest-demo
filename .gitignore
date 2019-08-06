@@ -3,9 +3,14 @@ node_modules
 
 # selenium drivers
 chromedriver
+geckodriver
 
 # DS_store
 .DS_Store
 
 #smashtest output
 smashtest
+
+# drivers
+file.zip
+file-ff.tar.gz
