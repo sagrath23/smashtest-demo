@@ -1,0 +1,15 @@
+// this is a function
+* Execute sum .. // .. allows to execute steps secuentially
+    Click 'div[data-test-id=button-9]'
+    Click 'div[data-test-id=oper-addition]'
+    Click 'div[data-test-id=button-9]'
+    Click 'div[data-test-id=oper-equal]'
+                    // Verify 'div[data-test-id=display]' contains '18'
+
+
+Open Chrome
+Open Firefox
+
+    Maximize window // you can add some instructions to manipulate browser
+        Navigate to 'localhost:3000'
+            Execute sum
